@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/dp20"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingConstraints">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dp10"
+        android:background="@drawable/card_green_border"
+        android:paddingBottom="@dimen/dp10"
+        >
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:focusable="false"
+            app:cardBackgroundColor="@color/colorWhite"
+            app:cardPreventCornerOverlap="true"
+            app:cardCornerRadius="@dimen/cardViewRadius"
+            android:gravity="center">
+            <LinearLayout
+                android:id="@+id/topLayout"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:padding="@dimen/dp15"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+
+                        <TextView
+                            android:id="@+id/accountName"
+                            android:layout_width="wrap_content"
+                            android:typeface="monospace"
+                            style="@style/TextAppearance.AppCompat.Medium"
+                            android:fontFamily="@font/helvetica_regular"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/colorAccent"
+                            android:textStyle="bold"
+                            android:gravity="center"
+                            android:textSize="@dimen/sp20"
+                            android:text="Selamat Datang"/>
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_marginTop="@dimen/dp20"
+                        android:weightSum="1"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_marginBottom="@dimen/dp5"
+                            android:id="@+id/txt3"
+                            android:layout_width="0dp"
+                            android:layout_weight="0.4"
+                            android:typeface="monospace"
+                            android:textColor="@color/colorAccent"
+                            style="@style/TextAppearance.AppCompat.Medium"
+                            android:fontFamily="@font/lucida_console"
+                            android:layout_height="match_parent"
+                            android:textSize="@dimen/sp18"
+                            android:text="Saldo Anda:"/>
+
+                        <TextView
+                            android:layout_marginBottom="@dimen/dp5"
+                            android:id="@+id/saldoTxt"
+                            android:layout_width="0dp"
+                            android:layout_weight="0.6"
+                            android:typeface="monospace"
+                            android:textColor="@color/colorAccent"
+                            style="@style/TextAppearance.AppCompat.Medium"
+                            android:fontFamily="@font/lucida_console"
+                            android:layout_height="match_parent"
+                            android:textSize="@dimen/sp18"
+                            android:text=""/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_marginTop="@dimen/dp20"
+                        android:weightSum="1"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <LinearLayout
+                            android:gravity="center"
+                            android:layout_weight="0.5"
+                            android:layout_gravity="center"
+                            android:orientation="vertical"
+                            android:padding="@dimen/dp10"
+                            android:layout_width="@dimen/dp50"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/imgTopup"
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:layout_gravity="center"
+                                android:src="@drawable/topup"
+                                />
+
+                            <TextView
+                                android:layout_marginBottom="@dimen/dp5"
+                                android:layout_width="match_parent"
+                                android:typeface="monospace"
+                                android:gravity="center"
+                                android:layout_marginTop="10dp"
+                                android:textColor="@color/colorAccent"
+                                style="@style/TextAppearance.AppCompat.Medium"
+                                android:fontFamily="@font/lucida_console"
+                                android:layout_height="match_parent"
+                                android:textSize="@dimen/sp14"
+                                android:text="Topup"/>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:gravity="center"
+                            android:layout_weight="0.5"
+                            android:layout_gravity="center"
+                            android:padding="@dimen/dp10"
+                            android:orientation="vertical"
+                            android:layout_width="@dimen/dp50"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:id="@+id/imgTransfer"
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:layout_gravity="center"
+                                android:src="@drawable/transfer"
+                                />
+
+                            <TextView
+                                android:layout_marginBottom="@dimen/dp5"
+                                android:layout_width="match_parent"
+                                android:typeface="monospace"
+                                android:gravity="center"
+                                android:layout_marginTop="10dp"
+                                android:textColor="@color/colorAccent"
+                                style="@style/TextAppearance.AppCompat.Medium"
+                                android:fontFamily="@font/lucida_console"
+                                android:layout_height="match_parent"
+                                android:textSize="@dimen/sp14"
+                                android:text="Transaksi"/>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

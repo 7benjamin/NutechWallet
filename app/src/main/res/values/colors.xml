@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ec7c1e</color>
+    <color name="colorPrimaryDark">#BC6318</color>
+    <color name="colorAccent">#D46F1B</color>
+    <color name="colorLightAccent">#EF964B</color>
+    <color name="colorLightAccent2">#F1A361</color>
+    <color name="colorLightAccent3">#F3B078</color>
+    <color name="colorDarkAccent">#A55615</color>
+
+    <color name="nutechblack">#3d4144</color>
+
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLightWhite">#EAEAEA</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorLightBlack">#20000000</color>
+    <color name="colorRed">#e3272c</color>
+    <color name="colorBlue">#2277ff</color>
+    <color name="colorYellow">#E6C200</color>
+    <color name="colorOrchid">#9932CC</color>
+    <color name="colorGrey">#838383</color>
+    <color name="colorDarkGrey">#5D5D5D</color>
+    <color name="colorLightGrey">#D3D3D3</color>
+    <color name="colorGreyCardHome">#c6c6c6</color>
+
+    <color name="cardBackgroundOutside">#F5F5F5</color>
+    <color name="cardBackgroundInside">#FFFFFF</color>
+
+
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="colorChecklist">#006600</color>
+
+    <color name="colorTintLogo">@color/colorWhite</color>
+    <color name="colorWhiteTo">@color/colorAccent</color>
+
+    <color name="colorSplashscreen">#FFFFFF</color>
+
+    <color name="colorRedError">@color/colorRed</color>
+</resources>

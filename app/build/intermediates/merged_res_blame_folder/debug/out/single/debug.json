@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account_circle.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\account_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_white_24dp.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\ic_person_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_v1_spin.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\v1_spin.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_dialog.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\font_helvetica_regular.ttf.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\font\\helvetica_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\animator_animation_out.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\animator\\animation_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_transaction_list.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\transaction_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\font_lucida_console.ttf.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\font\\lucida_console.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_card.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\ic_card.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\font_itc_avant_garde.ttf.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\font\\itc_avant_garde.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_custom_focused.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\edittext_custom_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_view.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\dialog_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transfer.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\transfer.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigate_next_accent_24dp.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\ic_navigate_next_accent_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_regular.ttf.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_update_profile.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\update_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clr_gradient_radial.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\clr_gradient_radial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_account_activity.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\account_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nutech.JPG.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\nutech.JPG"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\animator_animation_splash.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\animator\\animation_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_main.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\animator_animation_enter.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\animator\\animation_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_topup.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\topup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_green_border.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\card_green_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_note.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\ic_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nutechicon.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\nutechicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_custom_disable.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\edittext_custom_disable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_v1_ic_toa.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\v1_ic_toa.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_card.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\menu_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_splashscreen.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_topup.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\topup.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\anim_loading_anim.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\anim\\loading_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_holder.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\fragment_home_holder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout_account_card.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\layout\\account_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_custom_normal.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\drawable\\edittext_custom_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Benyamin\\AndroidStudioProjects\\Nutech Wallet\\NutechWallet\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

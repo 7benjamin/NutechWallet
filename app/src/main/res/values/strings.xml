@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">NutechWallet</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="aktivasi">Aktivasi</string>
+    <string name="aktivasitxt">Ganti Password Anda</string>
+    <string name="newRegisText">Anda Belum Terdaftar?</string>
+    <string name="username">E-mail</string>
+    <string name="pleaseWait">Harap Tunggu</string>
+    <string name="informasi">Informasi</string>
+    <string name="errorIncompatibleVersion">Sudah tersedia versi lebih baru. Silakan perbarui aplikasi ini.</string>
+    <string name="cancel">Batal</string>
+    <string name="buttonPerbarui">Perbarui</string>
+    <string name="rupiahCurrency">Rp. %s</string>
+
+
+
+    <string name="errorFormatEmail">*Format Email Tidak Sesuai</string>
+    <string name="errorEmptyUsername">*Email / No. Handphone tidak boleh kosong</string>
+    <string name="errorEmptyPassword">*Kata Sandi Tidak Boleh Kosong</string>
+    <string name="errorFormatAmount">*Nilai Jumlah Tidak Sesuai</string>
+
+    <string name="doubleBackPressConfirmation">Tekan KEMBALI sekali lagi untuk keluar</string>
+    <string name="logout">Keluar</string>
+    <string name="changePassword">Ganti Kata Sandi</string>
+    <string name="myAccountActivity">Akun Saya</string>
+    <string name="ya">Ya</string>
+    <string name="search">Cari</string>
+    <string name="no">Tidak</string>
+
+
+
+    <string name="retry">Coba Lagi</string>
+    <string name="close">Tutup</string>
+
+
+    <!--Register-->
+    <string name="firstname">Nama Depan</string>
+    <string name="lastname">Nama Belakang</string>
+    <string name="register">Pendaftaran</string>
+    <string name="regis">Daftar</string>
+
+    <string name="topup">Topup</string>
+    <string name="nominal">Nominal</string>
+    <string name="updateprofil">Update Profil</string>
+    <string name="profil">User Profile</string>
+
+
+
+
+
+</resources>

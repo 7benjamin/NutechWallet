@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:shimmer="http://schemas.android.com/tools"
+    shimmer:ignore="MissingConstraints">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:paddingBottom="@dimen/dp10"
+        android:background="@color/colorWhite"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/swipe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            >
+
+            <ScrollView
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/swipe"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:fillViewport="true"
+                android:scrollbars="none">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:paddingBottom="@dimen/dp15"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <View
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintLeft_toLeftOf="parent"
+                        app:layout_constraintRight_toRightOf="parent"
+                        android:id="@+id/view_blank"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dp70"
+                        android:background="@drawable/clr_gradient_radial"/>
+
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <LinearLayout
+                                android:paddingBottom="@dimen/dp10"
+                                android:paddingTop="@dimen/dp10"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:weightSum="1"
+                                android:orientation="horizontal">
+
+                                <LinearLayout
+                                    android:paddingLeft="@dimen/dp5"
+                                    android:layout_weight="0.5"
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:paddingStart="@dimen/dp5">
+                                    <ImageView
+                                        android:id="@+id/imageLogo"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="match_parent"
+                                        android:adjustViewBounds ="true"
+                                        android:src="@drawable/nutechicon"
+                                        />
+
+                                </LinearLayout>
+
+
+                                <TextView
+                                    android:visibility="gone"
+                                    android:id="@+id/txtValue"
+                                    android:layout_width="0dp"
+                                    android:layout_weight="0.8"
+                                    android:typeface="monospace"
+                                    android:layout_marginLeft="@dimen/dp10"
+                                    style="@style/TextAppearance.AppCompat.Medium"
+                                    android:fontFamily="@font/itc_avant_garde"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@color/colorWhite"
+                                    android:textStyle="bold"
+                                    android:textSize="@dimen/sp28"/>
+
+                                <LinearLayout
+                                    android:gravity="end"
+                                    android:layout_weight="0.5"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content">
+                                    <ImageView
+                                        android:id="@+id/imageAccount"
+                                        android:textSize="18sp"
+                                        android:layout_width="50dp"
+                                        android:layout_height="35dp"
+                                        android:layout_gravity="end"
+                                        app:tint="@color/colorWhiteTo"
+                                        app:srcCompat="@drawable/ic_person_white_24dp"/>
+
+                                </LinearLayout>
+                            </LinearLayout>
+
+
+                            <LinearLayout
+                                android:orientation="vertical"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <LinearLayout
+                                    android:visibility="visible"
+                                    android:id="@+id/mainLayout"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical">
+                                    <include layout="@layout/menu_card"
+                                        android:id="@+id/card"
+                                        />
+
+                                    <include layout="@layout/menu_main"
+                                        android:id="@+id/dashboardMenu"/>
+
+                                </LinearLayout>
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                    </RelativeLayout>
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </ScrollView>
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
